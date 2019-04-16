@@ -1,0 +1,22 @@
+body {
+ 
+  background-repeat: no-repeat;
+  background-position: center;
+    background-color: lightgrey;
+    height: 790px;
+    
+}
+
+
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+    height: 15%;
+   width: 100%;
+   background-color: grey;
+   color: white;
+   text-align: center;
+  }
+
